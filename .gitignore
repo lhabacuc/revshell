@@ -1,0 +1,25 @@
+# Compiled binaries
+installer
+
+# Object files
+*.o
+*.obj
+
+# Debug files  
+*.pdb
+*.dSYM/
+
+# Temporary files
+*~
+.tmp/
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
